@@ -1,0 +1,4 @@
+Type the following command in CMD:
+
+pip install suntime
+pip install geopy
